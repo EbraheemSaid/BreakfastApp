@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakfastApp", "BreakfastApp\BreakfastApp.csproj", "{04ED9F51-3EF4-42D2-838E-E4C77FBB23AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakfastApp.Contracts", "BreakfastApp.Contracts\BreakfastApp.Contracts.csproj", "{CEC327ED-3F6D-471E-A25B-0B888758A7EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04ED9F51-3EF4-42D2-838E-E4C77FBB23AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04ED9F51-3EF4-42D2-838E-E4C77FBB23AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04ED9F51-3EF4-42D2-838E-E4C77FBB23AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04ED9F51-3EF4-42D2-838E-E4C77FBB23AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC327ED-3F6D-471E-A25B-0B888758A7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC327ED-3F6D-471E-A25B-0B888758A7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC327ED-3F6D-471E-A25B-0B888758A7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC327ED-3F6D-471E-A25B-0B888758A7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

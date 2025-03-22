@@ -1,0 +1,11 @@
+E:\c#_Projects\BreakfastApp\BreakfastApp.Contracts\bin\Debug\net9.0\BreakfastApp.Contracts.deps.json
+E:\c#_Projects\BreakfastApp\BreakfastApp.Contracts\bin\Debug\net9.0\BreakfastApp.Contracts.dll
+E:\c#_Projects\BreakfastApp\BreakfastApp.Contracts\bin\Debug\net9.0\BreakfastApp.Contracts.pdb
+E:\c#_Projects\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net9.0\BreakfastApp.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_Projects\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net9.0\BreakfastApp.Contracts.AssemblyInfoInputs.cache
+E:\c#_Projects\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net9.0\BreakfastApp.Contracts.AssemblyInfo.cs
+E:\c#_Projects\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net9.0\BreakfastApp.Contracts.csproj.CoreCompileInputs.cache
+E:\c#_Projects\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net9.0\BreakfastApp.Contracts.dll
+E:\c#_Projects\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net9.0\refint\BreakfastApp.Contracts.dll
+E:\c#_Projects\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net9.0\BreakfastApp.Contracts.pdb
+E:\c#_Projects\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net9.0\ref\BreakfastApp.Contracts.dll
