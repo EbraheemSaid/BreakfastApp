@@ -30,3 +30,4 @@ E:\c#_Projects\BreakfastApp\BreakfastApp\obj\Debug\net9.0\refint\BreakfastApp.dl
 E:\c#_Projects\BreakfastApp\BreakfastApp\obj\Debug\net9.0\BreakfastApp.pdb
 E:\c#_Projects\BreakfastApp\BreakfastApp\obj\Debug\net9.0\BreakfastApp.genruntimeconfig.cache
 E:\c#_Projects\BreakfastApp\BreakfastApp\obj\Debug\net9.0\ref\BreakfastApp.dll
+E:\c#_Projects\BreakfastApp\BreakfastApp\obj\Debug\net9.0\BreakfastApp.sourcelink.json

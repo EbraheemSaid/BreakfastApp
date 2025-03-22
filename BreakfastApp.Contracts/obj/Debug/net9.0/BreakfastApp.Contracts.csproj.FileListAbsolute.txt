@@ -9,3 +9,4 @@ E:\c#_Projects\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net9.0\BreakfastApp
 E:\c#_Projects\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net9.0\refint\BreakfastApp.Contracts.dll
 E:\c#_Projects\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net9.0\BreakfastApp.Contracts.pdb
 E:\c#_Projects\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net9.0\ref\BreakfastApp.Contracts.dll
+E:\c#_Projects\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net9.0\BreakfastApp.Contracts.sourcelink.json
